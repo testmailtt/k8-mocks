@@ -25,5 +25,5 @@ spec:
             cpu: 500m
             memory: "1Gi"
         ports:
-        - containerPort: 8080
-          name: "8080-port"
+        - containerPort: 80
+          name: "80-port"
